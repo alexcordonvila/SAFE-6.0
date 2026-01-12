@@ -48,7 +48,7 @@ Este glosario resume los conceptos clave de **SAFe 6.0 (Scaled Agile Framework)*
 - **Solution Intent**: Documentación de lo que se espera del sistema o solución.
 
 ---
-
+> Este documento se puede compartir bajo **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**, siempre dando crédito al autor original.
 ## 6. Otros Términos Clave
 - **Agile Release Train (ART)**: Equipo de equipos que entrega valor de manera continua.  
 - **Value Stream**: Secuencia de pasos que entregan valor al cliente.  
